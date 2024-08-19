@@ -17,7 +17,7 @@ class ProductForm(forms.ModelForm):
             'product_id': forms.NumberInput(attrs={
                 'placeholder': 'e.g 1', 'class': 'form-control'}),
             'name': forms.TextInput(attrs={
-                'placeholder': 'e.g 1', 'shirt': 'form-control'}),
+                'placeholder': 'e.g Shirt', 'class': 'form-control'}),
             'sku': forms.TextInput(attrs={
                 'placeholder': 'e.g D12345', 'class': 'form-control'}),
             'price': forms.NumberInput(attrs={
