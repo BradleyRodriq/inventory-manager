@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for your Inventory Manager tool using Bootstrap, Python, Django, SQLite, and HTML:
-
----
-
 # Inventory Manager
 
 Inventory Manager is a web-based application built with Django and Bootstrap to help you efficiently manage and track inventory items. The app allows you to add, edit, delete, and view inventory items in a simple interface. This project uses Python, Django for the backend, SQLite for the database, and Bootstrap for styling the front end.
